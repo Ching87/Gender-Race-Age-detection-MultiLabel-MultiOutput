@@ -13,5 +13,6 @@ Plot of various age range. Here, we can see that it is imbalance
 ![image](https://user-images.githubusercontent.com/96677288/182716412-da10e85c-107c-4f78-9554-e390aa1ac242.png)
 Plot for gender is almost balanced
 
-![image](https://user-images.githubusercontent.com/96677288/182716557-7d197b76-c918-4856-b499-2ea77c0f6dbf.png)\nPlot for race also looks quite balanced
+![image](https://user-images.githubusercontent.com/96677288/182716557-7d197b76-c918-4856-b499-2ea77c0f6dbf.png)
+Plot for race also looks quite balanced
 
