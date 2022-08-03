@@ -16,3 +16,6 @@ Plot for gender is almost balanced
 ![image](https://user-images.githubusercontent.com/96677288/182716557-7d197b76-c918-4856-b499-2ea77c0f6dbf.png)
 Plot for race also looks quite balanced
 
+#### After applying augmentation to remove imbalance nature of age
+![image](https://user-images.githubusercontent.com/96677288/182717341-80ef4e16-6431-44c5-9685-e2c43d219352.png)
+Now, the plot for age ranges looks quite balanced
