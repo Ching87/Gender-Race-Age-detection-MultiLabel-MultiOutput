@@ -30,3 +30,10 @@ Able to achieve an accuracy of around 93% (gender) , 47% (race) and 56% (age) on
 #### Prediction
 ![image](https://user-images.githubusercontent.com/96677288/182717773-364f8c3f-3ac3-4b42-8319-0c1fca236bc4.png)
 
+
+
+##### The model architecture visualization
+![model_architecture](https://user-images.githubusercontent.com/96677288/182718417-23e6a74b-5ff8-4a26-a92f-e28e00e990a5.png)
+
+
+
