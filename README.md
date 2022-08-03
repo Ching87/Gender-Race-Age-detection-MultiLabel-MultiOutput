@@ -19,3 +19,14 @@ Plot for race also looks quite balanced
 #### After applying augmentation to remove imbalance nature of age
 ![image](https://user-images.githubusercontent.com/96677288/182717341-80ef4e16-6431-44c5-9685-e2c43d219352.png)
 Now, the plot for age ranges looks quite balanced
+
+
+
+### Evaluation:-
+Able to achieve an accuracy of around 93% (gender) , 47% (race) and 56% (age) on 10,000 test images.
+![image](https://user-images.githubusercontent.com/96677288/182717685-2c319a3d-14b8-4508-af70-dbf0e53b17bd.png)
+
+
+#### Prediction
+![image](https://user-images.githubusercontent.com/96677288/182717773-364f8c3f-3ac3-4b42-8319-0c1fca236bc4.png)
+
